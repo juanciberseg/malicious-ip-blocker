@@ -1,0 +1,14 @@
+# Python artifacts
+__pycache__
+*.pyc
+
+# Operating System files
+.DS_Store
+*~
+
+# Editor and Environment Files
+.vscode/
+
+# Security artifacts (To avoid publishing logs or sensitive output)
+*.log
+*.pcap
