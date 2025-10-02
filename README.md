@@ -29,7 +29,7 @@ This project automates a basic **Incident Response (IR)** containment task on **
 
 ## Evidence
 
-* [View Script Execution and UFW Verification](Evidence/imagen.png)
+* [View Script Execution and UFW Verification](Evidence/Capture_01.png)
 
 ## License
 This project is licensed under the MIT License.
